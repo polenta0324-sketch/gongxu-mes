@@ -1,0 +1,13 @@
+{
+  "name": "gongxu-mes",
+  "version": "1.0.0",
+  "private": true,
+  "description": "生产管理系统（工序流转 / 工单管理 / 车间看板）",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
